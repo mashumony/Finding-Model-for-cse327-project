@@ -1,1 +1,6 @@
 Finding onnx model for llm and multimodel finding on hugging face
+Tried with some model from hugging face :
+1. https://huggingface.co/microsoft/layoutlmv3-base
+2.https://huggingface.co/HuggingFaceTB/SmolVLM-256M-Instruct
+
+
